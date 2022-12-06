@@ -6,9 +6,10 @@ Fast point-line feature detection for VIO(Visual-Inertial Odometry) based on gra
 We tested on the [EuRoc dataset](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets) and the detection result of one frame from [V1_03_difficult](http://robotics.ethz.ch/~asl-datasets/ijrr_euroc_mav_dataset/vicon_room1/V1_03_difficult/V1_03_difficult.bag) shows as follows.
 
 <div align="center">
-<img src="https://github.com/LiuYuha0/point_line_feature_detection/blob/master/example/figure1.png" alt="fig1" width="33%" />
-<img src="https://github.com/LiuYuha0/point_line_feature_detection/blob/master/example/DenseArea.png" alt="Dense" width="33%" />
-<img src="https://github.com/LiuYuha0/point_line_feature_detection/blob/master/example/figure2.png" alt="fig2" width="33%" />
+<img src="https://github.com/LiuYuha0/point_line_feature_detection/blob/master/example/1403715900934057984.png" alt="raw" width="48%" />
+<img src="https://github.com/LiuYuha0/point_line_feature_detection/blob/master/example/DenseArea.png" alt="Dense" width="48%" />
+<img src="https://github.com/LiuYuha0/point_line_feature_detection/blob/master/example/figure1.png" alt="fig1" width="48%" />
+<img src="https://github.com/LiuYuha0/point_line_feature_detection/blob/master/example/figure2.png" alt="fig2" width="48%" />
 </div>
 
 ## Run
